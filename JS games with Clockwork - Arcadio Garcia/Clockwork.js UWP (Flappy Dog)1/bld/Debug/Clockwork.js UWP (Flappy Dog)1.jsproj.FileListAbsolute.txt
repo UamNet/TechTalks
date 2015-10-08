@@ -1,0 +1,32 @@
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bin\Debug\ReverseMap\resources.pri
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bin\Debug\AppxManifest.xml
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bin\Debug\Clockwork.js UWP (Flappy Dog)1.build.appxrecipe
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\ResourceHandlingTask.state
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\priconfig.xml
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\priconfig.xml.intermediate
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\layout.resfiles
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\layout.resfiles.intermediate
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\resources.resfiles
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\resources.resfiles.intermediate
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\pri.resfiles
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\pri.resfiles.intermediate
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\qualifiers.txt
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\qualifiers.txt.intermediate
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\49pym\Documents\GitHub\FlappyNinjaCat\Clockwork.js UWP (Flappy Dog)1\bld\Debug\ProjectArchitectures.txt
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bin\Debug\ReverseMap\resources.pri
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bin\Debug\AppxManifest.xml
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bin\Debug\Clockwork.js UWP (Flappy Dog)1.build.appxrecipe
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\ResourceHandlingTask.state
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\priconfig.xml
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\priconfig.xml.intermediate
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\layout.resfiles
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\layout.resfiles.intermediate
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\resources.resfiles
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\resources.resfiles.intermediate
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\pri.resfiles
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\pri.resfiles.intermediate
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\qualifiers.txt
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\qualifiers.txt.intermediate
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP (Flappy Dog)1\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SURFACEARCADIOW</Machine>
+    <WindowsUser>49pym</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>75dcff68-2e50-439f-ab6f-d3f391169453</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>02340C1462D71E908A75FD1446BA7B34A38CC26B4F33B1F141AB7FC642D4B3B2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>75dcff68-2e50-439f-ab6f-d3f391169453_1.0.0.0_neutral__kmkw1nvan8826</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>75dcff68-2e50-439f-ab6f-d3f391169453_kmkw1nvan8826!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>75dcff68-2e50-439f-ab6f-d3f391169453</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=49pym</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-08T19:44:58.629</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-10-08T19:49:20.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\assets\images\background.png">
+      <PackagePath>game\assets\images\background.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\assets\images\button.png">
+      <PackagePath>game\assets\images\button.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\assets\images\paradog_small.png">
+      <PackagePath>game\assets\images\paradog_small.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\assets\images\pipe.png">
+      <PackagePath>game\assets\images\pipe.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\data\config.js">
+      <PackagePath>game\data\config.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\data\presets_1.js">
+      <PackagePath>game\data\presets_1.js</PackagePath>
+      <Modified>2015-10-08T19:42:22.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\data\presets_0.js">
+      <PackagePath>game\data\presets_0.js</PackagePath>
+      <Modified>2015-10-08T17:21:55.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\data\presets.js">
+      <PackagePath>game\data\presets.js</PackagePath>
+      <Modified>2015-10-08T12:54:27.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\basicMouse.js">
+      <PackagePath>js\basicMouse.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\clockwork.js">
+      <PackagePath>js\clockwork.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-10-08T19:49:13.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\keyboard.js">
+      <PackagePath>js\keyboard.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\pointerAPI.js">
+      <PackagePath>js\pointerAPI.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\pointsAndBoxes.js">
+      <PackagePath>js\pointsAndBoxes.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\sound.js">
+      <PackagePath>js\sound.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\spritesheet.js">
+      <PackagePath>js\spritesheet.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\storage.js">
+      <PackagePath>js\storage.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\W10_camera.js">
+      <PackagePath>js\W10_camera.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\W10_notifications.js">
+      <PackagePath>js\W10_notifications.js</PackagePath>
+      <Modified>2015-10-05T09:19:08.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-10-05T09:19:09.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-10-05T09:19:09.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-10-05T09:19:10.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\data\levels_1.xml">
+      <PackagePath>game\data\levels_1.xml</PackagePath>
+      <Modified>2015-10-08T19:43:00.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\data\levels.xml">
+      <PackagePath>game\data\levels.xml</PackagePath>
+      <Modified>2015-10-08T17:17:37.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\data\levels_0.xml">
+      <PackagePath>game\data\levels_0.xml</PackagePath>
+      <Modified>2015-10-08T17:18:16.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\data\spritesheets.xml">
+      <PackagePath>game\data\spritesheets.xml</PackagePath>
+      <Modified>2015-10-05T09:19:18.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-10-05T09:19:08.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-10-05T09:19:09.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-10-05T09:19:09.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-08-25T14:18:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-08T19:44:58.344</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
