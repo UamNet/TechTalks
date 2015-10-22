@@ -28,7 +28,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2015-10-08T19:49:20.496</Modified>
+      <Modified>2015-10-09T12:01:57.434</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\assets\images\background.png">
       <PackagePath>game\assets\images\background.png</PackagePath>
@@ -80,7 +80,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\data\presets_1.js">
       <PackagePath>game\data\presets_1.js</PackagePath>
-      <Modified>2015-10-08T19:42:22.166</Modified>
+      <Modified>2015-10-09T11:51:42.244</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\game\data\presets_0.js">
       <PackagePath>game\data\presets_0.js</PackagePath>
@@ -100,7 +100,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2015-10-08T19:49:13.913</Modified>
+      <Modified>2015-10-09T12:01:49.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TechTalks\JS games with Clockwork - Arcadio Garcia\Clockwork.js UWP %28Flappy Dog%291\js\keyboard.js">
       <PackagePath>js\keyboard.js</PackagePath>
