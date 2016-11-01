@@ -1,0 +1,5 @@
+DemoC es el proyecto unity
+PrubasC_sharp contiene 3 proyectos
+	EjemploPersona->ASP .NET
+	Pruebas_Csharp ->Aplicacion de consola con demostraciones y comentarios
+	UwpPersona->Aplicacion de univeral Windows Platform
