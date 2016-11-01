@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "EjemploPersona"
+  },
+  "hostingPlanName": {
+    "value": "planEjemplos"
+  },
+  "siteLocation": {
+    "value": "West Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "d6b6dddd-b85d-42a0-91cd-2440d80c8dc1"
+  },
+  "resourceGroup": {
+    "value": "RecursosEjemplos"
+  }
+}
